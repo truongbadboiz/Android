@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "984251301617",
+    "firebase_url": "https://baiitaplonandroid-default-rtdb.firebaseio.com",
+    "project_id": "baiitaplonandroid",
+    "storage_bucket": "baiitaplonandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984251301617:android:daf782ce9adc7498af7350",
+        "android_client_info": {
+          "package_name": "com.example.baiitaplonandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzdxgYkonQqIvo-GIJH9sCURMj8lctuew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
